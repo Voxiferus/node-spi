@@ -16,7 +16,7 @@
 
 "use strict";
 
-var _spi = require("build/_spi.node");
+var _spi = require("./build/_spi.node");
 
 // Consistance with docs
 var MODE = {
