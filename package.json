@@ -7,8 +7,5 @@
      "type": "git",
      "url": "git://github.com/RussTheAerialist/node-spi.git"
    },
-   "main": "./spi",
-   "dependencies": {
-     "bindings": "*"
-   }
+   "main": "./spi"
 }
